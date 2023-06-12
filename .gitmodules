@@ -1,6 +1,0 @@
-[submodule "blogFrontend"]
-	path = blogFrontend
-	url = https://github.com/serverless-blog/blogFrontend
-[submodule "blogBackend"]
-	path = blogBackend
-	url = https://github.com/serverless-blog/blogBackend
